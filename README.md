@@ -1,0 +1,2 @@
+# logisticsQuartz
+通过Quartz定时调度JOB,jdbc连接sqlserver,将返回的结果集转为json格式,并写入到文件中
